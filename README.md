@@ -1,11 +1,9 @@
 # Hola 
 # Mi nombre es
 ## Soy Aaron Velasco FES Aragón
-
-* Mi contacto es:
-
+Este repositorio es para ejemplos educativos
 
 
-## Contacto
-aaron@gmail.com
+
+
 
